@@ -77,7 +77,7 @@ Get started with MongoDB
 Learn through examples and best practices
 -----------------------------------------
 
-TEST
+TEST      !
 
 Zoe works at a university that uses MongoDB to store student records.
 Since her background is in SQL, Zoe reads the

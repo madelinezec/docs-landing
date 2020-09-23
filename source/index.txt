@@ -7,7 +7,7 @@ Get started with MongoDB
 
 .. introduction::
 
-   Find the guides, samples, and references you need to use the database,
+   Test Find the guides, samples, and references you need to use the database,
    visualize data, and build applications on the MongoDB data platform.
 
 .. image:: /images/homepage-hero.png
